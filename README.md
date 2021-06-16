@@ -4,3 +4,4 @@
 [![Go](https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white)](https://github.com/xXNurioXx?tab=repositories&q=&type=&language=go&sort=)
 [![C++](https://img.shields.io/badge/C++-B670FA?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/xXNurioXx?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![PHP](https://img.shields.io/badge/PHP-48038A?style=for-the-badge&logo=php&logoColor=white)](https://github.com/xXNurioXx?tab=repositories&q=&type=&language=php&sort=)
+[![Kotlin](https://img.shields.io/badge/Kotlin-3370FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Minecraft-Servers-List)
