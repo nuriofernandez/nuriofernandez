@@ -8,3 +8,4 @@
 [![PHP](https://img.shields.io/badge/PHP-48038A?style=for-the-badge&logo=php&logoColor=white)](https://github.com/xXNurioXx?tab=repositories&q=&type=&language=php&sort=)
 [![Kotlin](https://img.shields.io/badge/Kotlin-3370FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Minecraft-Servers-List)
 [![Rust](https://img.shields.io/badge/Rust-6E3700?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/xXNurioXx?tab=repositories&q=&type=&language=rust&sort=)
+[![Bukkit](https://i.imgur.com/vQigL9R.png)](https://github.com/xXNurioXx?tab=repositories&q=bukkit-plugin&type=&language=java&sort=)
